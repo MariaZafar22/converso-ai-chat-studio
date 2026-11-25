@@ -235,4 +235,4 @@ Released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
-<p align="center"><b>Built as part of the Codomax Digital Solutions internship, Module 03: LLM APIs & Application Development.</b></p>
+
